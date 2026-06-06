@@ -1,6 +1,6 @@
                                                                                  local AllowedUsers={  
                                                                         "Structure_block12354","metro_king1",           
-                                                                    "Thething1289"};local MechScale=1;local Players=game:         
+                                                                    "thething1289"};local MechScale=1;local Players=game:         
                                                                 GetService("Players");local RunService=game:GetService("RunService");   
                                                             local UserInputService=game:GetService("UserInputService");local lp=Players.  
                                                           LocalPlayer;local isWhitelisted=false;for _,username in ipairs(AllowedUsers) do   
